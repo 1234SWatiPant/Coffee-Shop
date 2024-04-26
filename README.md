@@ -7,7 +7,7 @@ Order Page: Allows customers to place orders online.
 Chat Option: Enables real-time communication between customers and the coffee shop staff.
 
 ## Installation
-Clone the repository: git clone https://github.com/1234SWatiPant/coffee-shop.git
+Clone the repository: git clone https://github.com/1234SWatiPant/coffee-shop
 Navigate to the project directory: cd coffee-shop
 Start a local server: php -S localhost:8000
 Open your web browser and visit http://localhost:8000 to view the project.
